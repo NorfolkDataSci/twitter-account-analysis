@@ -151,3 +151,4 @@ ggplot(nas_removed_dat, aes(sender_followers, n)) +
   theme(axis.text=element_text(size=12),
         axis.title=element_text(size=14, face="bold"),
         plot.title = element_text(color="black", face="bold", size=24, hjust=0))
+
