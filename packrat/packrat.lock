@@ -140,6 +140,18 @@ Version: 2.1.0
 Hash: 50e297b0191179c39c7dcae0eff72b51
 Requires: digest, gtable, plyr, reshape2, scales
 
+Package: ggrepel
+Source: CRAN
+Version: 0.5
+Hash: 5d651efac9741c4fd6bf488d48417849
+Requires: Rcpp, ggplot2
+
+Package: ggthemes
+Source: CRAN
+Version: 3.2.0
+Hash: 44ef6d3a43f207cea8003ed2d69c9c36
+Requires: assertthat, colorspace, ggplot2, scales
+
 Package: gridBase
 Source: CRAN
 Version: 0.4-7
